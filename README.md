@@ -1,8 +1,8 @@
----
-title: "Submission: Tugas Akhir Membuat Website"
----
 
-# Pengantar
+ #**Submission: Tugas Akhir Membuat Website**
+
+
+## Pengantar
 
 Selamat, akhirnya Anda telah sampai di penghujung pembelajaran. Anda
 telah mempelajari beberapa materi seperti
@@ -30,7 +30,7 @@ harus mengerjakan tugas Halaman Website sesuai kriteria lengkap di
 bawah**. Tim reviewer akan memeriksa pekerjaan Anda dan memberikan
 *review* pada proyek yang Anda buat.
 
-# Kriteria Wajib
+## Kriteria Wajib
 
 Berikut kriteria-kriteria wajib submission yang harus Anda penuhi.
 
@@ -94,7 +94,7 @@ referensi untuk mengerjakan submission. tetapi tidak kami diwajibkan.
      VSCode, **atau lainnya.                                           
 
 
-# Penilaian
+## Penilaian
 
 Submission Anda akan dinilai oleh reviewer dengan **skala 1-5**
 berdasarkan dari parameter yang ada. Anda dapat menerapkan beberapa
@@ -149,9 +149,9 @@ Berikut adalah detail penilaian submission.
      **silakan tuliskan seluruh features yang dibuat dan jelaskan cara 
      mengakses feature tersebut pada Student\'s Notes.**               
 
-# Lainnya
+## Lainnya
 
-## Submission yang Tidak Sesuai Kriteria
+### Submission yang Tidak Sesuai Kriteria
 
 Jika tidak sesuai dengan kriteria, submission Anda akan ditolak oleh
 reviewer. Berikut adalah beberapa poin-poinnya.
@@ -167,7 +167,7 @@ reviewer. Berikut adalah beberapa poin-poinnya.
 -   Menggunakan tema mengenai Kota Bandung, maupun mengirimkan ulang
     beberapa project yang dipelajari pada modul latihan.
 
-## Ketentuan Berkas Submission
+### Ketentuan Berkas Submission
 
 Beberapa poin yang perlu diperhatikan ketika mengirimkan berkas
 submission.
@@ -186,7 +186,7 @@ submission.
     JavaScript dapat mendukung Anda dalam memenuhi saran dalam
     submission ini.
 
-## Ketentuan Proses Review
+### Ketentuan Proses Review
 
 Beberapa hal yang perlu Anda ketahui mengenai proses review.
 
