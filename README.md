@@ -67,8 +67,7 @@ Berikut kriteria-kriteria wajib submission yang harus Anda penuhi.
 Berikut adalah sketsa dari struktur website yang dapat dijadikan
 referensi untuk mengerjakan submission. tetapi tidak kami diwajibkan.
 
-![Layout Web]("Pic1.png"){width="6.9in" height="3.8in"}
-
+![Layout Website](https://github.com/aantriono82/Belajar-Web/blob/master/image/Pic1.png?raw:true)
 +-----------------------------------------------------------------------+
 | **Tips:**                                                             |
 |                                                                       |
