@@ -68,31 +68,31 @@ Berikut adalah sketsa dari struktur website yang dapat dijadikan
 referensi untuk mengerjakan submission. tetapi tidak kami diwajibkan.
 
 ![Layout Website](https://github.com/aantriono82/Belajar-Web/blob/master/image/Pic1.png?raw:true)
-+-----------------------------------------------------------------------+
-| **Tips:**                                                             |
-|                                                                       |
-| 1.  Ketika melakukan *import *suatu resource pada file HTML, pastikan |
-|     untuk menggunakan **relative path**,** bukanabsolute path**. Hal  |
-|     ini** **karena berpotensi menyebabkan resource tersebut tidak     |
-|     dapat dibaca ketika direviu. Berikut adalah contohnya.\           |
-|     **Absolute path**:                                                |
-|     \"C:\\Users\\Documents\\Projects\\styles\\style.css\"** atau**    |
-|     \"/home/user/Projects/styles/style.css\"\                         |
-|     **Relative path**: \"styles/style.css\"                           |
-|                                                                       |
-| 2.  Masih dalam topik yang sama mengenai asset/resource, pastikan     |
-|     dalam penulisan nama file atau folder **sama persis **dengan      |
-|     keadaan sebenarnya. Misalnya jika ada gambar dengan nama          |
-|     **profile.jpg** pada folder proyek, Anda harus *import* ia dengan |
-|     nama **profile.jpg**, bukan **Profile.jpg**. Hal ini bertujuan    |
-|     agar beberapa file tersebut bisa dimuat dengan baik oleh browser  |
-|     pada beberapa Sistem Operasi, seperti Linux.                      |
-|                                                                       |
-| 3.  Agar memudahkan Anda dalam membuat submission, gunakanlah IDE     |
-|     (Integrated Development Environtment) yang mendukung              |
-|     produktivitas dalam menuliskan kode. Misalnya **Atom,             |
-|     VSCode, **atau lainnya.                                           |
-+-----------------------------------------------------------------------+
+
+**Tips:**                                                          
+                                                                    
+1.  Ketika melakukan *import *suatu resource pada file HTML, pastikan 
+    untuk menggunakan **relative path**,** bukanabsolute path**. Hal  
+     ini** **karena berpotensi menyebabkan resource tersebut tidak     
+     dapat dibaca ketika direviu. Berikut adalah contohnya.\           
+     **Absolute path**:                                                
+     \"C:\\Users\\Documents\\Projects\\styles\\style.css\"** atau**    
+     \"/home/user/Projects/styles/style.css\"\                         
+     **Relative path**: \"styles/style.css\"                           
+                                                                       
+ 2.  Masih dalam topik yang sama mengenai asset/resource, pastikan     
+     dalam penulisan nama file atau folder **sama persis **dengan      
+     keadaan sebenarnya. Misalnya jika ada gambar dengan nama          
+     **profile.jpg** pada folder proyek, Anda harus *import* ia dengan 
+     nama **profile.jpg**, bukan **Profile.jpg**. Hal ini bertujuan    
+     agar beberapa file tersebut bisa dimuat dengan baik oleh browser  
+     pada beberapa Sistem Operasi, seperti Linux.                      
+                                                                       
+ 3.  Agar memudahkan Anda dalam membuat submission, gunakanlah IDE     
+     (Integrated Development Environtment) yang mendukung              
+     produktivitas dalam menuliskan kode. Misalnya **Atom,             
+     VSCode, **atau lainnya.                                           
+
 
 # Penilaian
 
@@ -136,20 +136,18 @@ berdasarkan dari parameter yang ada. Anda dapat menerapkan beberapa
 
 Berikut adalah detail penilaian submission.
 
-![Kriteria Kelulusan]("~/aantriono/Code/Belajar-Web/Pic2.png"){width="5.59in"
-height="3.64in"}
+![Kriteria Kelulusan](https://github.com/aantriono82/Belajar-Web/blob/master/image/Pic2.png?raw:true)
 
-+-----------------------------------------------------------------------+
-| **Catatan:**                                                          |
-|                                                                       |
-| 1.  Jika submission ditolak, tidak ada penilaian bagi Anda. Kriteria  |
-|     penilaian bintang di atas hanya berlaku jika submission Anda      |
-|     lulus.                                                            |
-|                                                                       |
-| 2.  Jika submission Anda terdapat penerapan JavaScript,               |
-|     **silakan tuliskan seluruh features yang dibuat dan jelaskan cara |
-|     mengakses feature tersebut pada Student\'s Notes.**               |
-+-----------------------------------------------------------------------+
+
+ **Catatan:**                                                          
+                                                                    
+ 1.  Jika submission ditolak, tidak ada penilaian bagi Anda. Kriteria  
+     penilaian bintang di atas hanya berlaku jika submission Anda      
+     lulus.                                                            
+                                                                       
+ 2.  Jika submission Anda terdapat penerapan JavaScript,               
+     **silakan tuliskan seluruh features yang dibuat dan jelaskan cara 
+     mengakses feature tersebut pada Student\'s Notes.**               
 
 # Lainnya
 
